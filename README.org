@@ -1,9 +1,9 @@
-#+TITLE: Remap windows 10 keys
+#+TITLE: Remap Windows 10 Keys
 
 1. select any .reg file from folder
 
 2. View as raw
 
-3.Right click and select option save page as
+3. Right click and select option save page as
 
-4.filename should end with .reg and save as type should be all files
+4. filename should end with .reg and save as type should be all files
