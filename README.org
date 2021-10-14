@@ -7,3 +7,5 @@
 3. Right click and select option save page as
 
 4. filename should end with .reg and save as type should be all files
+
+5. select file in computer and allow to make changes
