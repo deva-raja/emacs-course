@@ -1,6 +1,6 @@
 #+TITLE: Remap Windows 10 Keys
 
-1. select any .reg file from remove-caps-lock folder
+1. select any .reg file from remapping-caps-lock folder
 
 2. View as raw
 
